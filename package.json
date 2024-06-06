@@ -1,5 +1,7 @@
 {
   "name": "threeVR",
+  "version": "1.0.0",
+  "description": "ThreeJs",
   "dependencies": {
   }
 }
